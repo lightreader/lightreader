@@ -1,4 +1,4 @@
 apiVersion: v1
 description: A Helm chart for Kubernetes
-name: lightreader
+name: lightreader-amd64
 version: 0.1.0
